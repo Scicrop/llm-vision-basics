@@ -173,7 +173,7 @@ E quando você para de atribuir mistério, você começa a usar a ferramenta cer
 
 **Se você tem 2 horas:** Percorra os notebooks em ordem. Cada um termina com uma ponte para o próximo.
 
-**Se você quer usar em aula:** Os notebooks são autocontidos e progressivos. O `aula1` e o `aula2` funcionam com Python puro. O `aula2_complexa`, os `aula3` e o `aula4_complexa` precisam de `torch` instalado.
+Os notebooks são autocontidos e progressivos. O `aula1` e o `aula2` funcionam com Python puro. O `aula2_complexa`, os `aula3` e o `aula4_complexa` precisam de `torch` instalado.
 
 ```
 pip install numpy matplotlib torch
