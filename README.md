@@ -1,4 +1,4 @@
-# llm-class-001
+# Notebooks educativos que desmistificam LLMs e modelos de visão. Do bigrama ao Transformer e Difusão — tudo do zero, com Python puro e PyTorch. Sem hype, só código.
 
 > *"Um LLM não está a caminho da consciência. Ele está a caminho da próxima palavra."*
 
