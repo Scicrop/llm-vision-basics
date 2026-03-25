@@ -186,12 +186,12 @@ pip install numpy matplotlib torch
 ## Estrutura dos notebooks
 
 ```
-aula1_modelo_linguagem_ingenuo.ipynb                ← Python puro. Sem dependências externas.
-aula2_modelo_linguagem_limite_do_contexto.ipynb     ← Python puro. Sem dependências externas.
-aula2_complexa_modelo_linguagem_RNN_e_LSTM.ipynb    ← numpy + matplotlib + torch
-aula3_modelo_linguagem_atencao.ipynb                ← numpy + matplotlib
-aula3_complexa_modelo_linguagem_transformer.ipynb   ← numpy + matplotlib + torch
-aula4_complexa_vision_model.ipynb                   ← numpy + matplotlib + torch
+aula1_modelo_linguagem_ingenuo.ipynb                | Python puro. Sem dependências externas.
+aula2_modelo_linguagem_limite_do_contexto.ipynb     | Python puro. Sem dependências externas.
+aula2_complexa_modelo_linguagem_RNN_e_LSTM.ipynb    | numpy + matplotlib + torch
+aula3_modelo_linguagem_atencao.ipynb                | numpy + matplotlib
+aula3_complexa_modelo_linguagem_transformer.ipynb   | numpy + matplotlib + torch
+aula4_complexa_vision_model.ipynb                   | numpy + matplotlib + torch
 ```
 
 ---
