@@ -14,11 +14,11 @@ A onda atual dos LLMs tem elementos genuinamente diferentes das anteriores — e
 
 Mas uma coisa específica me irrita profundamente: a narrativa de que LLMs nos aproximam da AGI, de que terão autoconsciência, de que "pensam" ou "entendem" no sentido que atribuímos a humanos.
 
-Isso não é apenas errado. É prejudicial. Porque quem acredita nisso toma decisões de adoção baseadas em fantasia, e quem não acredita descarta a tecnologia por reação ao exagero — perdendo o que ela genuinamente oferece.
+Isso não é apenas errado. É prejudicial. Porque quem acredita nisso toma decisões de adoção baseadas em fantasia, e quem não acredita descarta a tecnologia por reação ao exagero, e perde o que ela oferece.
 
 **Este repositório é uma resposta prática a esse problema.**
 
-Construí seis notebooks que percorrem, do zero, a lógica interna de modelos de linguagem e visão. Qualquer pessoa com noções básicas de Python consegue acompanhar. O objetivo não é ensinar machine learning formal. O objetivo é tirar o LLM do campo da magia e colocá-lo no campo da engenharia — onde ele pertence.
+Construí seis notebooks que percorrem, do zero, a lógica interna de modelos de linguagem e visão. Qualquer pessoa com noções básicas de Python consegue acompanhar. O objetivo não é ensinar machine learning formal. O objetivo é tirar o LLM do campo da magia e colocá-lo no campo da engenharia, onde ele pertence.
 
 ---
 
